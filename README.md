@@ -3,7 +3,7 @@
 A lightweight, in-browser text editor. This project is hosted on GitHub Pages and provides a minimal interface for writing and managing notes directly in your web browser.
 
 
-## ✨ Features (Identified from the Page)
+## ✨ Features 
 
 Based on the visible buttons and title, the editor includes:
 
@@ -19,6 +19,9 @@ Based on the visible buttons and title, the editor includes:
 ## 🚀 How to Use
 
 The interface is straightforward: click the buttons to perform their respective actions on your note.
+
+## Live Demo
+https://the-architect-0.github.io/Notepad/
 
 
 ## 💻 Local Development
